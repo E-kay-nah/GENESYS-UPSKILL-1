@@ -1,0 +1,9 @@
+.Meta: it is an HTML tag that contains metadata about a webpage.
+They are used by search engines to determine the page content 
+and how to treat it.
+
+.Charset: it is an attribute that tells ur browser 
+what encoding to use for this webpage to show the content as desired.
+
+.UTF-8:it is the version of the character set.It is a variable 
+length character encoding standard used for electronic communication
